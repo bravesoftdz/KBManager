@@ -11,7 +11,7 @@
 *.pdf
 *.txt
 *.cfg
-CryptoAPI.pas
+.\Common\Units\CryptoAPI.pas
 sqlncli.msi
 **\_history
 **\_recovery
